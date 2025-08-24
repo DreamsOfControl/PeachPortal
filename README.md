@@ -29,4 +29,4 @@ D) Set System Prompt and See System Prompt are just what they sound like.
 
 E) Max Tokens is just what it sounds like, as are Temperature and Top P.
 
-E) The Regenerate Response button deletes the LLM's last response and resends the last user prompt. Note that this button is only avaiable when the last message in the main chat box is from the LLM.
+E) The Regenerate Response button deletes the LLM's last response and resends the last user prompt. Note that this button is only available when the last message in the main chat box is from the LLM.
