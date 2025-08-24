@@ -1,6 +1,7 @@
 # PeachPortal
-A JavaScript-based HTML page for easily accessing LLM being hosted on a local network HTML server.
-Cowritten by me (20%) and a large cloud-based LLM (80%,) this file allows you to serve an LLM with LM Studio on a local machine and access the LLM via a web browser on a different machine. No OpenWebUI or other installs are necessary on either machine. You can even have a third machine like a file server or local web server host the file instead of the machine running LLM.
+A JavaScript-based HTML page file for easily accessing LLM being hosted on a local network HTML server with LM Studio.
+
+Cowritten by me (20%) and a large cloud-based LLM (80%,) this file allows you to serve an LLM with LM Studio on a local machine and access the LLM via a web browser on a different machine. No OpenWebUI or other installs are necessary on either machine. You can even have a third machine like a file server or local web server host the file instead of the machine running LM Studio.
 
 Install Steps:
 
