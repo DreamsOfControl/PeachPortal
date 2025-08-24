@@ -13,7 +13,7 @@ Install Steps:
 
 4) Put the edited HTML file in the directory your server serves web pages from. On most *nix boxes this is going to be something like /var/www/html but it varies tremendously.
 
-5) On a JavaScript capable browser on the user machine go to http://<IP_OF_LM_STUDIO_MACHINE><PORT_#>. If you want to see the address look on the Developer tab in LM Studio but beware as in Step 2 above.
+5) On a JavaScript capable browser on the user machine go to http://<IP_OF_LM_STUDIO_MACHINE>:<PORT_#>. If you want to see the address look on the Developer tab in LM Studio but beware misleading IP addresses as in Step 2 above.
 
 You can now use the Peach Portal to access your LM Studio install from any machine that can access your LM Studio host on your local network. Be sure the firewalls on both the HTML host machine (if different) allow connections on port 1234 or whatever you picked. No firewall adjustments are neessary on the user machine as the Peach Portal is just another web page to it.
 
